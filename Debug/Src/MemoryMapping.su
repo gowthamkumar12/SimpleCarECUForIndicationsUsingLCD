@@ -1,0 +1,4 @@
+../Src/MemoryMapping.c:11:6:GPIOConfigurationForLED	4	static
+../Src/MemoryMapping.c:36:6:GPIOConfigurationBuzzer	4	static
+../Src/MemoryMapping.c:43:6:GPIOConfigurationSwitch	4	static
+../Src/MemoryMapping.c:55:6:GPIOConfiguration	8	static

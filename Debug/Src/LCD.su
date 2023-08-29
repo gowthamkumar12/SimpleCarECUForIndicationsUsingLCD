@@ -1,0 +1,9 @@
+../Src/LCD.c:11:6:SetOutput	16	static
+../Src/LCD.c:17:6:SetBit	16	static
+../Src/LCD.c:22:6:ClrBit	16	static
+../Src/LCD.c:27:6:CplBit	16	static
+../Src/LCD.c:32:6:DelayLcd	16	static
+../Src/LCD.c:38:6:LcdInit	8	static
+../Src/LCD.c:56:6:LcdFxn	16	static
+../Src/LCD.c:118:6:lprint	24	static
+../Src/LCD.c:132:6:aprint	24	static

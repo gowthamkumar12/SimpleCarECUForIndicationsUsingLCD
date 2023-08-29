@@ -1,0 +1,3 @@
+../Src/Buzzer.c:11:6:Buzzer	4	static
+../Src/Buzzer.c:35:6:BuzzerON	8	static
+../Src/Buzzer.c:41:6:BuzzerOFF	8	static
